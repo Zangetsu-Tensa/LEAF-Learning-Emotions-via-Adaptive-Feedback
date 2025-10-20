@@ -1,0 +1,33 @@
+# 🤝 Contributing to LEAF — Learning Emotions via Adaptive Feedback
+
+First off, thank you for your interest in contributing to **LEAF** 🌿  
+Your contributions help push the boundaries of **emotion-aware reinforcement learning** and make this framework more adaptive, intelligent, and open to the world.
+
+---
+
+## 🧠 About the Project
+
+**LEAF (Learning Emotions via Adaptive Feedback)** is an open-source framework that integrates **emotional modeling** into reinforcement learning agents.  
+It aims to explore how emotions such as curiosity, frustration, and confidence can shape adaptive behaviors and decision-making in AI.
+
+---
+
+## 🏷️ Hacktoberfest Notice
+
+🎉 This repository is officially open for **Hacktoberfest 2025**!  
+Meaningful pull requests (PRs) will count toward your contributions — whether you’re fixing bugs, improving docs, or building emotional modules.  
+Let's grow the emotional intelligence of AI together 🌿
+
+---
+
+## 🚀 How to Contribute
+
+Follow these steps to make your contribution smooth and efficient:
+
+### 1️⃣ Fork the Repository
+Click the **Fork** button (top-right corner of the repo) to create your personal copy.
+
+### 2️⃣ Clone Your Fork
+```bash
+git clone https://github.com/<your-username>/LEAF-Learning-Emotions-via-Adaptive-Feedback.git
+cd LEAF-Learning-Emotions-via-Adaptive-Feedback
